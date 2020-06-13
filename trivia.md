@@ -1,19 +1,13 @@
 ---
 layout: page
-title: Things
+title: Trivia
 # featured_image: /assets/images/pages/about.jpg
 ---
 
 <table>
 <!-- <caption>Table Caption</caption> -->
-<thead>
-<tr>
-   <th>Content categories</th>
-   <th>Flow content</th>
-  </tr>
-</thead>
- <tbody>
-    <tr><td>t Editor</td>
+<tbody>
+    <tr><td>Text Editor</td>
     <td><a href="http://www.sublimetext.com/">Sublime Text</a></td></tr>
     <tr><td>Clipboard Manager</td>
     <td><a href="http://bluemars.org/clipx/">ClipX</a></td></tr>
@@ -83,5 +77,5 @@ title: Things
     <td>14th floor</td></tr>
     <tr><td>Bandwidth</td>
     <td>128kBps Down, 32kBps Up</td></tr>
- </tbody>
+</tbody>
 </table>
