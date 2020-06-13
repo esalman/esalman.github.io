@@ -18,7 +18,7 @@ title: Trivia
     <tr><td>Console</td>
     <td><a href="https://www.xbox.com/en-US/consoles/xbox-one-s">Xbox One S</a></td></tr>
     <tr><td>Smartphone</td>
-    <td><a href="https://www.nokia.com/phones/en_us/nokia-6-1">Nokia 6.1[^1]</a></td></tr>
+    <td><a href="https://www.nokia.com/phones/en_us/nokia-6-1">Nokia 6.1<sup>1</sup></a></td></tr>
     <tr><td>Browser</td>
     <td><a href="https://www.mozilla.org/en-US/firefox/developer/">Firefox Developer Edition</a></td></tr>
     <tr><td>Android Apps</td>
@@ -76,4 +76,4 @@ title: Trivia
 </tbody>
 </table>
 
-[^1]: I have vowed not to purchase a phone again that costs upward of $200-250.
+1. I have vowed not to purchase a phone again that costs upward of $200-250.
