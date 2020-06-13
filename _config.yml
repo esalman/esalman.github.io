@@ -39,8 +39,8 @@ navigation:
     url: /
   - text: CV
     url: /cv
-  - text: About
-    url: /about
+  - text: Things
+    url: /things
   # - text: Style Guide
   #   url: /style-guide
   - text: Contact Me
