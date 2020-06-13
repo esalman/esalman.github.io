@@ -22,13 +22,13 @@ title: Trivia
     <tr><td>Browser</td>
     <td><a href="https://www.mozilla.org/en-US/firefox/developer/">Firefox Developer Edition</a></td></tr>
     <tr><td>Android Apps</td>
-    <a href="https://play.google.com/store/apps/details?id=com.mictale.gpsessentials&amp;hl=en">GPS Essentials</a>, 
+    <td><a href="https://play.google.com/store/apps/details?id=com.mictale.gpsessentials&amp;hl=en">GPS Essentials</a>, 
     <a href="https://play.google.com/store/apps/details?id=com.duolingo&hl=en_US">Duolingo: Learn Languages Free</a>, 
     <a href="https://play.google.com/store/apps/details?id=org.mozilla.fennec_aurora&hl=en_US">Firefox Nightly for Developers</a>, 
     <a href="https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_US">Loop Habit Tracker</a>, 
     <a href="https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&hl=en_US">Pocket: Save. Read. Grow</a>, 
     <a href="https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en_US">Sky Map</a>, 
-    <a href="https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=en_US">Splitwise</a>, 
+    <a href="https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=en_US">Splitwise</a></td>
     <tr><td>Game</td>
     <td><a href="http://www.easports.com/fifa">FIFA</a>, 
     <a href="http://www.rockstargames.com/grandtheftauto/">GTA</a>, 
@@ -38,8 +38,8 @@ title: Trivia
     <tr><td>Email</td>
     <td><a href="http://gmail.com">Gmail</a></td></tr>
     <tr><td>Font</td>
-    <a href="http://opensans.com/">Open Sans</a></td></tr>
-    <td><a href="https://docs.microsoft.com/en-us/typography/font-list/consolas">Consolas</a>, 
+    <td><a href="http://opensans.com/">Open Sans</a>,
+    <td><a href="https://docs.microsoft.com/en-us/typography/font-list/consolas">Consolas</a></td></tr>
     <tr><td>Linux Distro</td>
     <td>Anything headless</td></tr>
     <tr><td>OS</td>
