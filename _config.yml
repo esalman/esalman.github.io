@@ -37,10 +37,10 @@ quora:
 navigation:
   - text: Home
     url: /
-  - text: CV
-    url: http://www.esalman.com/MSS-CV-latest.pdf
   - text: About
     url: /about
+  - text: CV
+    url: http://www.esalman.com/MSS-CV-latest.pdf
   # - text: Style Guide
   #   url: /style-guide
   - text: Contact Me
