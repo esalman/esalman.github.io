@@ -8,19 +8,17 @@ title: Trivia
 <!-- <caption>Table Caption</caption> -->
 <tbody>
     <tr><td>Text Editor</td>
-    <td><a href="http://www.sublimetext.com/">Sublime Text</a></td></tr>
+    <td><a href="https://code.visualstudio.com/">Visual Studio Code</a></td></tr>
     <tr><td>Clipboard Manager</td>
     <td><a href="http://bluemars.org/clipx/">ClipX</a></td></tr>
     <tr><td>Explorer Alternative</td>
     <td><a href="http://www.softwareok.com/?seite=Freeware/Q-Dir">Q-Dir</a></td></tr>
-    <tr><td>Custom ROM</td>
-    <td><a href="http://aokp.co/">AOKP</a></td></tr>
     <tr><td>Laptop</td>
-    <td><a href="http://www.alienware.com/">Alienware M11X R2</a></td></tr>
+    <td><a href="https://www.msi.com/Laptop/GE62-2QD-Apache-Pro/Specification">MSI GE62 2QD Apache Pro</a></td></tr>
     <tr><td>Console</td>
-    <td><a href="http://us.playstation.com/ps3/">PS3</a></td></tr>
+    <td><a href="https://www.xbox.com/en-US/consoles/xbox-one-s">Xbox One S</a></td></tr>
     <tr><td>Smartphone</td>
-    <td><a href="http://www.android.com/devices/detail/galaxy-nexus">Galaxy Nexus</a></td></tr>
+    <td><a href="https://www.nokia.com/phones/en_us/nokia-6-1">Nokia 6.1[^1]</a></td></tr>
     <tr><td>Browser</td>
     <td><a href="http://www.mozilla.org/en-US/firefox/aurora/">Chrome</a></td></tr>
     <tr><td>Android Apps</td>
@@ -79,3 +77,5 @@ title: Trivia
     <td>128kBps Down, 32kBps Up</td></tr>
 </tbody>
 </table>
+
+[^1]: I have vowed not to purchase a phone again that costs upward of $200-250.
