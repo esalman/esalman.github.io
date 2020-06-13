@@ -1,12 +1,12 @@
 # Site setings
 name: 'Mustafa Salman'
-description: 'Web Developer'
+description: 'GRA at TReNDS Center & PhD student in ECE at Georgia Tech.'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi, this is Mustafa Salman. I am a graduate research assistant at the TReNDS Center, Atlanta, GA, and a PhD student in ECE, Georgia Tech."
+  greetings: "Hi, this is Mustafa Salman. I am a graduate research assistant at the TReNDS Center, Atlanta, GA, and a PhD student in ECE at Georgia Tech."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://esalman.github.io
