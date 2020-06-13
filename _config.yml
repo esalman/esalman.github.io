@@ -39,8 +39,6 @@ navigation:
     url: /
   - text: CV
     url: /cv
-  - text: Trivia
-    url: /trivia
   - text: About
     url: /about
   # - text: Style Guide
