@@ -20,46 +20,44 @@ title: Trivia
     <tr><td>Smartphone</td>
     <td><a href="https://www.nokia.com/phones/en_us/nokia-6-1">Nokia 6.1[^1]</a></td></tr>
     <tr><td>Browser</td>
-    <td><a href="http://www.mozilla.org/en-US/firefox/aurora/">Chrome</a></td></tr>
+    <td><a href="https://www.mozilla.org/en-US/firefox/developer/">Firefox Developer Edition</a></td></tr>
     <tr><td>Android Apps</td>
-    <td><a href="https://play.google.com/store/apps/details?id=org.rojekti.clipper&amp;hl=en">Clipper</a>, 
-    <a href="http://forum.xda-developers.com/nexus-4/themes-apps/app-apollo-dsp-manager-4-4-t2516306">DSP Manager</a>, 
-    <a href="https://play.google.com/store/apps/details?id=com.estrongs.android.pop&amp;hl=en">ES File Explorer</a>, 
     <a href="https://play.google.com/store/apps/details?id=com.mictale.gpsessentials&amp;hl=en">GPS Essentials</a>, 
-    <a href="https://play.google.com/store/apps/details?id=com.anddoes.launcher&amp;hl=en">Apex Launcher</a>,
-    <a href="https://play.google.com/store/apps/details?id=com.jrummy.liberty.toolbox&amp;hl=en">ROM Toolbox Lite</a>, 
-    <a href="https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&amp;hl=en">TeamViewer</a>, 
-    </dd><dt>Game</td>
+    <a href="https://play.google.com/store/apps/details?id=com.duolingo&hl=en_US">Duolingo: Learn Languages Free</a>, 
+    <a href="https://play.google.com/store/apps/details?id=org.mozilla.fennec_aurora&hl=en_US">Firefox Nightly for Developers</a>, 
+    <a href="https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_US">Loop Habit Tracker</a>, 
+    <a href="https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&hl=en_US">Pocket: Save. Read. Grow</a>, 
+    <a href="https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en_US">Sky Map</a>, 
+    <a href="https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=en_US">Splitwise</a>, 
+    <tr><td>Game</td>
     <td><a href="http://www.easports.com/fifa">FIFA</a>, 
     <a href="http://www.rockstargames.com/grandtheftauto/">GTA</a>, 
     <a href="http://www.curtisbright.com/msx/">Minesweeper</a>, 
-    <a href="http://www.borderlands2.com/">Borderlands</a></td></tr>
     <tr><td>Minesweeper Best</td>
     <td>62 seconds in expert</td></tr>
     <tr><td>Email</td>
     <td><a href="http://gmail.com">Gmail</a></td></tr>
     <tr><td>Font</td>
-    <td><a href="http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&amp;code=1960">Source Code Pro</a>, 
     <a href="http://opensans.com/">Open Sans</a></td></tr>
+    <td><a href="https://docs.microsoft.com/en-us/typography/font-list/consolas">Consolas</a>, 
     <tr><td>Linux Distro</td>
-    <td>anything headless</td></tr>
+    <td>Anything headless</td></tr>
     <tr><td>OS</td>
-    <td><a href="http://www.microsoftstore.com/store/msusa/en_US/pdp/Windows-7-Home-Premium/productID.253735200">Windows 7 Home Premium</a></td></tr>
+    <td><a href="https://www.microsoft.com/en-us/p/windows-10-home/d76qx4bznwk4">Windows 10 Home</a></td></tr>
     <tr><td>Fantasy Team</td>
-    <td><a href="http://fantasy.premierleague.com/entry/52935/history/">FPL Analyzer</a></td></tr>
+    <td><a href="https://fantasy.premierleague.com/entry/4633938/history">UnderG</a></td></tr>
     <tr><td>Accounting System</td>
-    <td><a href="http://www.gnucash.org/">Gnucash</a></td></tr>
+    <td><a href="https://www.google.com/sheets/about/">Google Sheets</a></td></tr>
     <tr><td>Season</td>
     <td>Winter</td></tr>
     <tr><td>Ice Cream</td>
-    <td>Chocolate</td></tr>
+    <td><a href="https://centralmarket.com/product/central-market-dark-chocolate-ganache-ice-cream1-pt/">Central Market Dark Chocolate Ganache Ice Cream</a></td></tr>
     <tr><td>TV</td>
     <td><a href="http://www.imdb.com/title/tt0220880/">Courage The Cowardly Dog</a>, 
     <a href="http://www.imdb.com/title/tt0060019/">The Road Runner Show</a>, 
     <a href="http://www.imdb.com/title/tt0112197/">Timon &amp; Pumba</a>, 
-    <a href="http://www.imdb.com/title/tt0859575/">Whacked Out Sports</a>, 
     <a href="http://www.topgear.com/uk/">Top Gear</a>, 
-    <a href="http://www.premierleague.com/en-gb.html">EPL</a>, 
+    <a href="http://www.premierleague.com/">EPL</a>, 
     <a href="http://spongebob.nick.com/">Spongebob Squarepants</a></td></tr>
     <tr><td>StackExchange</td>
     <td>
@@ -68,13 +66,13 @@ title: Trivia
         </a>
     </td></tr>
     <tr><td>Language</td>
-    <td>C, MATLAB, PHP, ActionScript, JavaScript</td></tr>
+    <td>Python, R, MATLAB, C++, C, PHP, ActionScript, JavaScript</td></tr>
     <tr><td>Home</td>
-    <td>1st floor</td></tr>
+    <td>2nd floor</td></tr>
     <tr><td>Office</td>
-    <td>14th floor</td></tr>
+    <td>18th floor</td></tr>
     <tr><td>Bandwidth</td>
-    <td>128kBps Down, 32kBps Up</td></tr>
+    <td>43Mbps Down, 23MBps Up</td></tr>
 </tbody>
 </table>
 
