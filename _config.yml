@@ -38,7 +38,7 @@ navigation:
   - text: Home
     url: /
   - text: CV
-    url: /cv
+    url: http://www.esalman.com/MSS-CV-latest.pdf
   - text: About
     url: /about
   # - text: Style Guide

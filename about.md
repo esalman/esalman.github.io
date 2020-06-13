@@ -139,7 +139,7 @@ I live in Atlanta, GA with a <a href="http://aminamannan.com/">beautiful wife</a
    </tbody>
 </table>
 
-1. I have vowed not to purchase a phone again that costs upward of $200-250.
+1. I have vowed not to purchase a phone again that costs upwards of $200-250.
 
 *Thank You for reading!*
 
