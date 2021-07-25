@@ -1,12 +1,12 @@
 ---
-layout: index
+layout: page
 title: Publications
 sidebar_link: true
 ---
 
-# Research & Publications
+## Research Interests
 
-*Research Interests:* My interests are in digital signal and image
+My interests are in digital signal and image
 processing, machine learning, artificial intelligence, data science and
 generally any problem that can be solved using a computer. As a graduate
 research assistant at TReNDS, I analyze high dimensional brain imaging
