@@ -1,0 +1,28 @@
+I"Ù<table>
+	<!-- <caption>Table Caption</caption> -->
+	<tbody>
+		<tr>
+			<td>Text Editor</td>
+			<td><a href="https://code.visualstudio.com/">Visual Studio Code</a></td>
+		</tr>
+		<tr>
+			<td>Clipboard Manager</td>
+			<td><a href="http://bluemars.org/clipx/">ClipX</a></td>
+		</tr>
+		<tr>
+			<td>Explorer Alternative</td>
+			<td><a href="http://www.softwareok.com/?seite=Freeware/Q-Dir">Q-Dir</a></td>
+		</tr>
+		<tr>
+			<td>Laptop</td>
+			<td><a href="https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-5-15imh05h">Lenovo Legion 5 (2020)</a></td>
+		</tr>
+		<tr>
+			<td>Console</td>
+			<td><a href="https://www.xbox.com/en-US/consoles/xbox-one-s">Xbox One S</a></td>
+		</tr>
+		
+	</tbody>
+</table>
+
+:ET

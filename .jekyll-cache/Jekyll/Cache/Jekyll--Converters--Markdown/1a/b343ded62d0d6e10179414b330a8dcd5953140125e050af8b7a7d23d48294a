@@ -1,0 +1,85 @@
+I"Ü	<table>
+	<!-- <caption>Table Caption</caption> -->
+	<tbody>
+		
+		<tr>
+			<td>Game</td>
+			<td><a href="http://www.easports.com/fifa">FIFA</a>, 
+			<a href="http://www.rockstargames.com/grandtheftauto/">GTA</a>, 
+			<a href="http://www.curtisbright.com/msx/">Minesweeper</a></td>
+		</tr>
+		<tr>
+			<td>Minesweeper Best</td>
+			<td>62 seconds in expert</td>
+		</tr>
+		<tr>
+			<td>Email</td>
+			<td><a href="http://gmail.com">Gmail</a></td>
+		</tr>
+		<tr>
+			<td>Font</td>
+			<td><a href="http://opensans.com/">Open Sans</a>,
+			<a href="https://docs.microsoft.com/en-us/typography/font-list/consolas">Consolas</a></td>
+		</tr>
+		<tr>
+			<td>Linux Distro</td>
+			<td>Anything headless</td>
+		</tr>
+		<tr>
+			<td>OS</td>
+			<td><a href="https://www.microsoft.com/en-us/p/windows-10-home/d76qx4bznwk4">Windows 10 Home</a></td>
+		</tr>
+		<tr>
+			<td>Fantasy Team</td>
+			<td><a href="https://fantasy.premierleague.com/entry/479979/history">UnderG</a></td>
+		</tr>
+		<tr>
+			<td>Accounting System</td>
+			<td><a href="https://www.google.com/sheets/about/">Google Sheets</a></td>
+		</tr>
+		<tr>
+			<td>Season</td>
+			<td>Winter (not in the US)</td>
+		</tr>
+		<tr>
+			<td>Ice Cream</td>
+			<td><a href="https://centralmarket.com/product/central-market-dark-chocolate-ganache-ice-cream1-pt/">Central Market Dark Chocolate Ganache Ice Cream</a></td>
+		</tr>
+		<tr>
+			<td>TV</td>
+			<td><a href="http://www.imdb.com/title/tt0220880/">Courage The Cowardly Dog</a>, 
+			<a href="http://www.imdb.com/title/tt0060019/">The Road Runner Show</a>, 
+			<a href="http://www.imdb.com/title/tt0112197/">Timon &amp; Pumba</a>, 
+			<a href="http://www.topgear.com/uk/">Top Gear</a>, 
+			<a href="http://www.premierleague.com/">EPL</a>, 
+			<a href="http://spongebob.nick.com/">Spongebob Squarepants</a>
+			</td>
+		</tr>
+		<tr>
+			<td>StackExchange</td>
+			<td>
+			<a href="http://stackexchange.com/users/77822">
+			<img class="img img-polaroid" src="http://stackexchange.com/users/flair/77822.png" alt="profile for Salman on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Salman on Stack Exchange, a network of free, community-driven Q&amp;A sites" width="208" height="58" />
+			</a>
+			</td>
+		</tr>
+		<tr>
+			<td>Language</td>
+			<td>Python, R, MATLAB, C++, C, PHP, ActionScript, JavaScript</td>
+		</tr>
+		<tr>
+			<td>Home</td>
+			<td>3nd floor</td>
+		</tr>
+		<tr>
+			<td>Office</td>
+			<td>18th floor</td>
+		</tr>
+		<tr>
+			<td>Bandwidth</td>
+			<td>43Mbps Down, 23MBps Up</td>
+		</tr>
+	</tbody>
+</table>
+
+:ET
