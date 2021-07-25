@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: index
 title: Curriculum Vitae
 sidebar_link: true
 ---
+
 ### Mustafa Saifuddin Salman
 Email: [`cpu.salman@gmail.com`](mailto:cpu.salman@gmail.com)  
 Website: [`www.esalman.com`](http://www.esalman.com/)  
@@ -11,6 +12,7 @@ Google Scholar:
 Github: [`http://github.com/esalman`](http://github.com/esalman)  
 LinkedIn:
 [`http://www.linkedin.com/in/mustafa-salman-a0267216`](http://www.linkedin.com/in/mustafa-salman-a0267216)  
+
 ## Education
 
 **Ph.D., Electrical & Computer Engineering**, Georgia Institute of Technology, Summer 2019--Present  

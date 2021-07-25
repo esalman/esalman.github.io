@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: Publications
 sidebar_link: true
 ---

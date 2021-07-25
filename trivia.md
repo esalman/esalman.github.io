@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: Trivia
 sidebar_link: true
 ---
