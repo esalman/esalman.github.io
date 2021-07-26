@@ -31,10 +31,10 @@ LinkedIn:
 
 ## Computer Skills
 
-**Programming**, scripting & object-oriented languages (C, PHP, Python, JavaScript, Java, Actionscript), markup languages (HTML/CSS, LaTeX), version control systems (SVN, Git) etc.  
-**Data science**, scientific computing (R, MATLAB), machine learning & artificial intelligence (SciPy, TensorFlow, PyTorch, CUDA etc.)  
-**Distributed computing** (MPI), high performance computing (PBS, SLURM) & cloud infrastructure (AWS, S3)  
-**Web, Android & database** application development  
+**Programming**, scripting & object-oriented languages (Python, PHP, C, JavaScript, Java), markup languages (HTML/CSS, LaTeX), version control systems (Git, SVN) etc.  
+**Data science**, scientific computing (MATLAB, R), machine learning & artificial intelligence (SciPy, TensorFlow, PyTorch, CUDA etc.)  
+**Distributed computing**, high performance computing (SLURM, PBS), MPI, and cloud infrastructure (AWS, S3)  
+**Application development**, web, Android & database   
 **Operating systems** (Windows, Linux & OS X)  
 
 ## Employment
@@ -59,9 +59,9 @@ Please see the [`Publications`](./publications) page.
 
 **High performance computing,** authored a documentation for using high performance computing (HPC) systems, 2020 [`http://esalman.gsucreate.org/trendswiki/Main_Page`](http://esalman.gsucreate.org/trendswiki/Main_Page).  
 **Cloud infrastructure experience,** migrated 1 PetaByte of research data using AWS & S3, 2019.  
-**Open source contribution,** authored about 25 open source project repositories on Github [`https:// github.com/esalman`](https://github.com/esalman), 2015--Present.  
-**Competition hosting,** hosted the TReNDS Neuroimaging competition on Kaggle [`https://www.kaggle. com/c/trends-assessment-prediction`](https://www.kaggle.com/c/trends-assessment-prediction), 2020.  
-**Outreach activity,** volunteering as a technical advisor at the Brain Space Initiative, an outreach program providing equal opportunity for researchers and students across the world [`https://brainspace initiative.github.io/`](https://brainspaceinitiative.github.io/), 2020-Present.  
+**Open source contribution,** authored about 25 open source project repositories on Github [`https://github.com/esalman`](https://github.com/esalman), 2015--Present.  
+**Competition hosting,** hosted the TReNDS Neuroimaging competition on Kaggle [`https://www.kaggle.com/c/trends-assessment-prediction`](https://www.kaggle.com/c/trends-assessment-prediction), 2020.  
+**Outreach activity,** volunteering as a technical advisor at the Brain Space Initiative, an outreach program providing equal opportunity for researchers and students across the world [`https://brainspaceinitiative.github.io/`](https://brainspaceinitiative.github.io/), 2020-Present.  
 **Entrepreneurship,** co-founded a stock-market software start-up, Dimik Infotech Ltd. in Dhaka, Bangladesh, 2011-2015.  
 **Developer advisor** at stackoverflow.com, voluntarily answering computer programming questions [`https://stackoverflow.com/users/221859/salman?tab=profile`](https://stackoverflow.com/users/221859/salman?tab=profile), 2012--Present  
 **Brain data analysis workshops,** provided assistance to the participants of the biennial   "The Mind Research Network (MRN) fMRI Image Acquisition and Analyses Course with SPM and ICA", 2016--Present.  
