@@ -20,25 +20,28 @@ sidebar_link: true
 	<dt>Browser</dt>
 	<dd><a href="https://www.mozilla.org/en-US/firefox/developer/">Firefox Developer Edition</a></dd>
 	<dt>Android Apps</dt>
-	<dd><a href="https://play.google.com/store/apps/details?id=com.mictale.gpsessentials&amp;hl=en">GPS Essentials</a>, 
-	<a href="https://play.google.com/store/apps/details?id=com.duolingo&hl=en_US">Duolingo: Learn Languages Free</a>, 
-	<a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US&gl=US">Firefox Browser</a>, 
-	<a href="https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_US">Loop Habit Tracker</a>, 
-	<a href="https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&hl=en_US">Pocket: Save. Read. Grow</a>, 
-	<a href="https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en_US">Sky Map</a>, 
-	<a href="https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=en_US">Splitwise</a>
+	<dd>
+		<a href="https://play.google.com/store/apps/details?id=com.mictale.gpsessentials&amp;hl=en">GPS Essentials</a>, 
+		<a href="https://play.google.com/store/apps/details?id=com.duolingo&hl=en_US">Duolingo: Learn Languages Free</a>, 
+		<a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US&gl=US">Firefox Browser</a>, 
+		<a href="https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_US">Loop Habit Tracker</a>, 
+		<a href="https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&hl=en_US">Pocket: Save. Read. Grow</a>, 
+		<a href="https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en_US">Sky Map</a>, 
+		<a href="https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=en_US">Splitwise</a>
 	</dd>
 	<dt>Game</dt>
-	<dd><a href="http://www.easports.com/fifa">FIFA</a>, 
-	<a href="http://www.rockstargames.com/grandtheftauto/">GTA</a>, 
-	<a href="http://www.curtisbright.com/msx/">Minesweeper</a></dd>
+	<dd>
+		<a href="http://www.easports.com/fifa">FIFA</a>, 
+		<a href="http://www.rockstargames.com/grandtheftauto/">GTA</a>, 
+		<a href="http://www.curtisbright.com/msx/">Minesweeper</a></dd>
 	<dt>Minesweeper Best</dt>
 	<dd>62 seconds in expert</dd>
 	<dt>Email</dt>
 	<dd><a href="http://gmail.com">Gmail</a></dd>
 	<dt>Font</dt>
-	<dd><a href="http://opensans.com/">Open Sans</a>,
-	<a href="https://docs.microsoft.com/en-us/typography/font-list/consolas">Consolas</a></dd>
+	<dd>
+		<a href="http://opensans.com/">Open Sans</a>,
+		<a href="https://docs.microsoft.com/en-us/typography/font-list/consolas">Consolas</a></dd>
 	<dt>Linux Distro</dt>
 	<dd>Anything headless</dd>
 	<dt>OS</dt>
@@ -52,12 +55,13 @@ sidebar_link: true
 	<dt>Ice Cream</dt>
 	<dd><a href="https://centralmarket.com/product/central-market-dark-chocolate-ganache-ice-cream1-pt/">Central Market Dark Chocolate Ganache Ice Cream</a></dd>
 	<dt>TV</dt>
-	<dd><a href="http://www.imdb.com/title/tt0220880/">Courage The Cowardly Dog</a>, 
-	<a href="http://www.imdb.com/title/tt0060019/">The Road Runner Show</a>, 
-	<a href="http://www.imdb.com/title/tt0112197/">Timon &amp; Pumba</a>, 
-	<a href="http://www.topgear.com/uk/">Top Gear</a>, 
-	<a href="http://www.premierleague.com/">EPL</a>, 
-	<a href="http://spongebob.nick.com/">Spongebob Squarepants</a>
+	<dd>
+		<a href="http://www.imdb.com/title/tt0220880/">Courage The Cowardly Dog</a>, 
+		<a href="http://www.imdb.com/title/tt0060019/">The Road Runner Show</a>, 
+		<a href="http://www.imdb.com/title/tt0112197/">Timon &amp; Pumba</a>, 
+		<a href="http://www.topgear.com/uk/">Top Gear</a>, 
+		<a href="http://www.premierleague.com/">EPL</a>, 
+		<a href="http://spongebob.nick.com/">Spongebob Squarepants</a>
 	</dd>
 	<dt>StackExchange</dt>
 	<dd>
@@ -67,6 +71,13 @@ sidebar_link: true
 	</dd>
 	<dt>Language</dt>
 	<dd>Python, R, MATLAB, C++, C, PHP, ActionScript, JavaScript</dd>
+	<dt>Software</dt>
+	<dd>
+		<a href=''>ffmpeg</a>, 
+		<a href=''>Git SDK</a>, 
+		<a href=''>pandoc</a>, 
+		<a href=''>bash</a>, 
+	</dd>
 	<dt>Home</dt>
 	<dd>3nd floor</dd>
 	<dt>Office</dt>
