@@ -13,6 +13,31 @@ Github: [`http://github.com/esalman`](http://github.com/esalman)
 LinkedIn:
 [`http://www.linkedin.com/in/mustafa-salman-a0267216`](http://www.linkedin.com/in/mustafa-salman-a0267216)  
 
+## Skills
+
+**Programming**, scripting & object-oriented languages (Python, PHP, C, JavaScript, Java), markup languages (HTML/CSS, LaTeX), version control systems (Git, SVN) etc.  
+**Data science**, scientific computing (MATLAB, R), machine learning & artificial intelligence (SciPy, TensorFlow, PyTorch, CUDA etc.)  
+**Distributed computing**, high performance computing (SLURM, PBS), MPI, and cloud infrastructure (AWS, S3)  
+**Application development**, web, Android & database   
+**Operating systems** (Windows, Linux & OS X)  
+
+## Employment
+
+**Senior Modeler**, Moody's RMS, Newark, CA, USA 2022--Present  
+Prototyped and certified catastrophe risk models before deployment in the client-facing products.
+
+**Graduate Research Assistant**, Center for Translational Research in Neuroimaging & Data Science (TReNDS), Atlanta, GA, USA 2019--Present  
+Analyzed high-dimensionalbrain imaging data to identify predictive patterns of function in the healthy and diseased human brain.  
+
+**Graduate Research Assistant**, Mind Research Network, Albuquerque, NM, USA 2015--2019  
+Analyzed high-dimensionalbrain imaging data to identify predictive patterns of function in the healthy and diseased human brain.  
+
+**Co-founder & CTO**, Dimik Infotech, Dhaka, Bangladesh, 2011--2015  
+Developed software for Dhaka Stock Exchange (DSE) brokers, and web and mobile applications for offshore small business clients.  
+
+**Web Application Developer**, Technobd Web Solutions, Dhaka, Bangladesh, 2009--2011  
+Developed web and mobile applications according to client requirements.
+
 ## Education
 
 **Ph.D., Electrical & Computer Engineering**, Georgia Institute of Technology, Summer 2019--Present  
@@ -28,28 +53,6 @@ LinkedIn:
 **B.S., Electrical & Electronic Engineering**, Bangladesh University of Engineering & Technology, 2009  
 *Major:* Communications, *Minor:* Electronics  
 *Dissertation:* A Study On IPTV: An Emphasis On Quality Control
-
-## Computer Skills
-
-**Programming**, scripting & object-oriented languages (Python, PHP, C, JavaScript, Java), markup languages (HTML/CSS, LaTeX), version control systems (Git, SVN) etc.  
-**Data science**, scientific computing (MATLAB, R), machine learning & artificial intelligence (SciPy, TensorFlow, PyTorch, CUDA etc.)  
-**Distributed computing**, high performance computing (SLURM, PBS), MPI, and cloud infrastructure (AWS, S3)  
-**Application development**, web, Android & database   
-**Operating systems** (Windows, Linux & OS X)  
-
-## Employment
-
-**Graduate Research Assistant**, Center for Translational Research in Neuroimaging & Data Science (TReNDS), Atlanta, GA, USA 2019--Present  
-Analyze high-dimensionalbrain imaging data to identify predictive patterns of function in the healthy and diseased human brain.  
-
-**Graduate Research Assistant**, Mind Research Network, Albuquerque, NM, USA 2015--2019  
-Analyze high-dimensionalbrain imaging data to identify predictive patterns of function in the healthy and diseased human brain.  
-
-**Co-founder & CTO**, Dimik Infotech, Dhaka, Bangladesh, 2011--2015  
-Developed software for Dhaka Stock Exchange (DSE) brokers, and web and mobile applications for offshore small business clients.  
-
-**Web Application Developer**, Technobd Web Solutions, Dhaka, Bangladesh, 2009--2011  
-Developed web and mobile applications according to client requirements.
 
 ## Research
 

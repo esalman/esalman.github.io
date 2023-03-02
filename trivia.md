@@ -16,7 +16,7 @@ sidebar_link: true
 	<dt>Console</dt>
 	<dd><a href="https://www.xbox.com/en-US/consoles/xbox-one-s">Xbox One S</a></dd>
 	<dt>Smartphone</dt>
-	<dd><a href="https://www.oneplus.com/7t">OnePlus 7T</a></dd>
+	<dd><a href="https://www.oneplus.com/8">OnePlus 8</a></dd>
 	<dt>Browser</dt>
 	<dd><a href="https://www.mozilla.org/en-US/firefox/developer/">Firefox Developer Edition</a></dd>
 	<dt>Android Apps</dt>
@@ -36,12 +36,10 @@ sidebar_link: true
 		<a href="http://www.curtisbright.com/msx/">Minesweeper</a></dd>
 	<dt>Minesweeper Best</dt>
 	<dd>62 seconds in expert</dd>
-	<dt>Email</dt>
-	<dd><a href="http://gmail.com">Gmail</a></dd>
 	<dt>Font</dt>
 	<dd>
 		<a href="http://opensans.com/">Open Sans</a>,
-		<a href="https://docs.microsoft.com/en-us/typography/font-list/consolas">Consolas</a></dd>
+		<a href="https://fonts.google.com/specimen/Inconsolata">Inconsolata</a></dd>
 	<dt>Linux Distro</dt>
 	<dd>Anything headless</dd>
 	<dt>OS</dt>
@@ -51,7 +49,7 @@ sidebar_link: true
 	<dt>Accounting System</dt>
 	<dd><a href="https://www.google.com/sheets/about/">Google Sheets</a></dd>
 	<dt>Season</dt>
-	<dd>Winter (not in the US)</dd>
+	<dd>Winter</dd>
 	<dt>Ice Cream</dt>
 	<dd><a href="https://centralmarket.com/product/central-market-dark-chocolate-ganache-ice-cream1-pt/">Central Market Dark Chocolate Ganache Ice Cream</a></dd>
 	<dt>TV</dt>
@@ -71,17 +69,17 @@ sidebar_link: true
 	</dd>
 	<dt>Language</dt>
 	<dd>Python, R, MATLAB, C++, C, PHP, ActionScript, JavaScript</dd>
-	<dt>Software</dt>
+	<dt>Favorite software</dt>
 	<dd>
-		<a href=''>ffmpeg</a>, 
-		<a href=''>Git SDK</a>, 
-		<a href=''>pandoc</a>, 
-		<a href=''>bash</a>, 
+		<a href='https://www.ffmpeg.org/'>ffmpeg</a>, 
+		<a href='https://gitforwindows.org/'>Git SDK</a>, 
+		<a href='https://pandoc.org/'>pandoc</a>, 
+		<a href='https://www.gnu.org/software/bash/'>bash</a>, 
 	</dd>
 	<dt>Home</dt>
-	<dd>3nd floor</dd>
+	<dd>3rd floor</dd>
 	<dt>Office</dt>
-	<dd>18th floor</dd>
+	<dd>3rd floor</dd>
 	<dt>Bandwidth</dt>
 	<dd>43Mbps Down, 23MBps Up</dd>
 </dl>
